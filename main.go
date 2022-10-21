@@ -1,4 +1,4 @@
-package build
+package go_pkg
 
 func Build() []byte {
 	var a = make([]byte, 2)
