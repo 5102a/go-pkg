@@ -1,5 +1,5 @@
 
-package go_pack
+package main
 
 func main (){
 	print(1)
